@@ -30,7 +30,7 @@ else:
 
     totalJuros = float(totalPago - dividaInicial)
     print("------------------------------------")
-    print(f"Mês: {mes} \nTotal pago no final da quitação: R$ {totalPago:.2f} \nTotal Juros Totais: R$ {totalJuros:.2f}")
+    print(f"Mês: {mes} \nTotal pago no final da quitação:R$ {totalPago:.2f} \nTotal Juros Totais: R$ {totalJuros:.2f}")
     print("------------------------------------")
     
         
